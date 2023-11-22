@@ -1,2 +1,2 @@
 # kunuz
-This project, developed in the jarir research group (www.jarir.tn), aims to build multi-domain resources (e.g. corpora and gold standards) for various text mining texts including knowledge extraction and document classification. We focus on three languages, namely Arabic, French and English.
+This project aims to build Arabic language resources (e.g. corpora and gold standards) for various Information Retrieval (IR) and text mining tasks including knowledge extraction and document classification. 
