@@ -1,4 +1,3 @@
-# Kunuz-IR
 
 <div class=WordSection1>
 
