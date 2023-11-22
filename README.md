@@ -1,13 +1,18 @@
 <h1>Kunuz-IR</h1>
+
 <div class=WordSection1>
 
 <p class=MsoNormal style='text-align:justify'><span lang=EN-US
-style='font-family:"Times New Roman",serif'>This resource is an Arabic-English
-Information Retrieval (IR) collection built according to <a
-href="https://trec.nist.gov/"><span style='font-size:9.0pt;line-height:115%'>TREC</span></a>
-guidelines and data formats. For more details about the dataset, see references
-bellow. Data was extracted from an XMLized version of Sahih Albukhari, the most
-authentic hadith book. It has the following characteristics:</span></p>
+style='font-family:"Times New Roman",serif'>This resource is a bilingual Information
+Retrieval (IR) collection built according to <a href="https://trec.nist.gov/"><span
+style='font-size:9.0pt;line-height:115%'>TREC</span></a> guidelines and data
+formats. It may be used for monolingual Arabic IR or Arabic-English IR. For more
+details about the dataset, see GitHub repository. Data was extracted from an
+XMLized version of Sahih Albukhari, the most authentic hadith book. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span lang=EN-US
+style='font-family:"Times New Roman",serif'>The dataset is structured as
+follows:</span></p>
 
 <p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
 lang=EN-US style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -458,4 +463,3 @@ color:black'>, Abu Dhabi, UAE, 2019.</span></p>
 style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 </div>
- 
