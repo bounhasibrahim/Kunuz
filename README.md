@@ -16,7 +16,7 @@ follows:</span></p>
 <p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
 lang=EN-US style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span dir=LTR></span><span lang=EN-US style='font-family:"Times New Roman",serif'>At
-the macro-logical level, the collection t is structured through sections in a
+the macro-logical level, the collection is structured through sections in a
 hierarchical manner (see&nbsp;<b>Structure.xml</b>). From this structure, we
 extracted a list of domains (<b>Domains.txt</b>)&nbsp; and an index linking
 domains to hadiths (<b>Domain-Index.txt</b>).</span></p>
