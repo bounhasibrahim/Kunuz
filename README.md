@@ -6,8 +6,7 @@
 style='font-family:"Times New Roman",serif'>This resource is a bilingual Information
 Retrieval (IR) collection built according to <a href="https://trec.nist.gov/"><span
 style='font-size:9.0pt;line-height:115%'>TREC</span></a> guidelines and data
-formats. It may be used for monolingual Arabic IR or Arabic-English IR. For more
-details about the dataset, see GitHub repository. Data was extracted from an
+formats. Data was extracted from an
 XMLized version of Sahih Albukhari, the most authentic hadith book. </span></p>
 
 <p class=MsoNormal style='text-align:justify'><span lang=EN-US
